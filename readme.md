@@ -148,4 +148,4 @@ The tester will use its own version of the GreeterTester, so any code you change
 
 ## Turning it in
 
-When you have finished this lab, upload the Greeter.java file to [turnerinner.com/@mrmaycs](https://turnerinner.com/@mrmaycs)
+When you have finished this lab, find the assignment in schoology, there will be a link to upload the file and put a screenshot into the schoology assignment.
